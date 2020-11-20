@@ -1,8 +1,8 @@
-# Java Neural Network (from scratch)
+# Java Neural Network from scratch
 
 
 
-This project builds a very basic regression model to predict the boiling points of complex molecules (TU Budapest Artificial Intelligence course home assignment, 2018). The intention of this task was to learn how to construct a neural network and learn its main concepts. To run the sample, start `Application` -> `main()`.
+This project builds a very basic regression model to predict the boiling points of complex molecules (TU Budapest AI course home assignment, 2018). The intention of this task was to learn how to construct a neural network and learn its main concepts. To run the sample, start `Application` -> `main()`.
 
 When the app is running, it first trains the network, then makes prediction.
 
